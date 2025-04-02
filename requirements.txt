@@ -1,5 +1,0 @@
-streamlit
-langchain
-openai
-pypdf
-faiss-cpu
